@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["96UCJRV6L5.com.runmars.app"],
+        "components": [
+          { "/": "/maters-legal/session.html", "?": { "id": "?*" } }
+        ],
+        "appID": "96UCJRV6L5.com.runmars.app",
+        "paths": ["/maters-legal/session.html"]
+      }
+    ]
+  }
+}
